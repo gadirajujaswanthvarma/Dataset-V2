@@ -14,3 +14,7 @@ Robust and Efficient Embedded Convex Optimization through First-Order Adaptive C
 On-Device Vision Training, Deployment, and Inference on a Thumb-Sized Microcontroller A Transparent, Single-File Foundation for Embedded Machine Learning on-device-vision-ai | Jeremy Ellisar arXiv:2604.23012v1 [cs.LG]  | Xiv.org perpetual non-exclusive license
 Quantization and Deployment of Deep Neural Networks on Microcontrollers | Pierre-Emmanuel Novac (1), Ghouthi Boukli Hacene (2 and 3), Alain Pegatoquet (1), Benoît Miramond (1), Vincent Gripon (2) ((1) Université Côte d'Azur, CNRS, LEAT, Sophia Antipolis, France, (2) IMT Atlantique, Brest, France, (3) MILA, Montreal, Canada arXiv:2105.13331 [cs.LG]|
 Real-Time Machine Learning for Embedded Anomaly Detection | Abdelmadjid Benmachiche,Khadija Rais,Hamda Slimi |arXiv:2512.19383v1 [cs.LG] | CC BY 4.0 |
+
+## GitHub Data/Repos
+Robotics-Projects | MedKhalil19 | Un-licensed/No license
+Real-Time-Servo-Motor-Control-Over-Wi-Fi-Using-ESP32-and-WebSocket | rajtilak-2020 | MIT |
